@@ -1,7 +1,7 @@
 # Read me
-This's the last time I rewrite code I wrote in Java to C.
+My homework
 ## something
-This is text
+This's the last time I rewrite code I wrote in Java to C.
 1. Part of code
 ```C
 void addRecord(ArrayList *arr)

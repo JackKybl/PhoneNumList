@@ -3,7 +3,7 @@ This's the last time I rewrite code I wrote in Java to C.
 ## something
 This is text
 1. Part of code
-``C
+```C
   void addRecord(ArrayList *arr)
   {
       printf("First name: ");
